@@ -2,6 +2,8 @@
 def suma(a, b):
     return a + b
 
+
+
 # Definimos una función que resta dos números y devuelve el resultado
 def resta(a, b):
     return a - b
